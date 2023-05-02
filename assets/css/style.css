@@ -86,7 +86,7 @@ p {
     font-size: 36px;
 }
 
-/*  Grouped id with similar styling, left unique ids for future possible indivual styling */
+/*  Grouped ids with the the same styling, left unique ids for future possible indivual styling */
 #search-engine-optimization, 
 #online-reputation-management, 
 #social-media-marketing {
@@ -121,7 +121,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/*  Grouped id with similar styling, left unique ids for future possible indivual styling */
+/*  Grouped id with the same styling, left unique ids for future possible indivual styling */
 #benefit-lead,
 #benefit-brand,
 #benefit-cost {
